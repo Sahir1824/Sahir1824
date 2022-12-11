@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sahir1824
 - 👀 I’m interested in coding and art
 - 🌱 I’m currently learning java and c#
-- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ... sahirkhan1824@gmail.com
 
 <!---
